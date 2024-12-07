@@ -304,7 +304,7 @@
         font-family: "Merienda", cursive;
         color: #666;
         font-style: italic;
-        margin-top: 24rem;
+        margin-top: 1rem;
         font-size: 1rem;
     }
 
@@ -509,7 +509,7 @@
         text-align: center;
         color: #666;
         font-style: italic;
-        margin-top: 14rem;
+        margin-top: 1rem;
         font-size: 1rem;
     }
 
